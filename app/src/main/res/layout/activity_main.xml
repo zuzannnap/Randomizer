@@ -12,8 +12,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="206dp"
-        tools:layout_editor_absoluteY="139dp" />
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="49dp" />
 
     <Button
         android:id="@+id/rollButton"
@@ -86,6 +86,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="55dp"
-        tools:layout_editor_absoluteY="70dp" />
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="205dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
